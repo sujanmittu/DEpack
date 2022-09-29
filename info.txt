@@ -1,0 +1,6 @@
+selected resource name:		main_load_pipeline
+selected resource type:		pipeline
+factory name:			pysparkadfv2
+factory location:		eastus
+subscription id:		bd66c874-48fe-4dc8-87c6-d2d0e4100413
+time of download (UTC):		Mon, 28 Dec 2020 04:00:31 GMT

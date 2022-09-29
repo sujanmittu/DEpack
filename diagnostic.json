@@ -1,0 +1,22 @@
+{
+    "now": "2020-12-28T04:00:31.349Z",
+    "perfNow": 2876671.785000013,
+    "diagnosticCorrelation": "65efe35b-ce5e-4037-aba1-0aabbf14305f",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.20201222.15",
+        "environmentType": 3,
+        "resourceName": "pysparkadfv2",
+        "resourceRegion": "eastus",
+        "resourceGroup": "dev_rg",
+        "subscriptionId": "bd66c874-48fe-4dc8-87c6-d2d0e4100413",
+        "sessionId": "qTFBG",
+        "operationId": "hNO4Y",
+        "gitType": "GitHub"
+    },
+    "additionalInfo": {
+        "selectedResource": "main_load_pipeline",
+        "selectedResourceType": "pipeline"
+    }
+}
