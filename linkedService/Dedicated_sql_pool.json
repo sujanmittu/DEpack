@@ -1,0 +1,12 @@
+{
+	"name": "Dedicated_sql_pool",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDW",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=sujandbs.database.windows.net;initial catalog=mittuPool;user id=mittusujan",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDQ1OTQwQTJCLUUyNzktNDE2OS05NkRBLUE5MUMxREZCOEUzMF9kOTQ5Yzc4Ny1lMmY1LTQ2MDItYjI0MS1lZjdjZTY0ODA0MzYiDQp9"
+		}
+	}
+}
